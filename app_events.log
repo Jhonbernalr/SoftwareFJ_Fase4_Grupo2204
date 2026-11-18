@@ -1,0 +1,368 @@
+2026-11-17 17:17:28 | INFO | Catalog updated: added SRV-01
+2026-11-17 17:17:28 | INFO | Catalog updated: added SRV-02
+2026-11-17 17:17:28 | INFO | Catalog updated: added SRV-03
+2026-11-17 17:22:56 | INFO | === STARTING 12 BATCH SIMULATIONS ===
+2026-11-17 17:22:56 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 17:22:56 | INFO | Simulation/Booking SUCCESS [SIM-01]: Client='Carlos Mendez', Service='SRV-01', Total=$96.39 USD
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-01.
+2026-11-17 17:22:56 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 17:22:56 | INFO | Simulation/Booking SUCCESS [SIM-02]: Client='Laura Gomez', Service='SRV-02', Total=$62.47 USD
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-02.
+2026-11-17 17:22:56 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 17:22:56 | ERROR | Simulation/Booking FAILED [SIM-03]: Booking SIM-03 failed for client Andres Ruiz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-03.
+2026-11-17 17:22:56 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 17:22:56 | ERROR | Simulation/Booking FAILED [SIM-04]: Booking SIM-04 failed for client Sofia Torres: Duration must be greater than 0 hours.
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-04.
+2026-11-17 17:22:56 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 17:22:56 | ERROR | Simulation/Booking FAILED [SIM-05]: Booking SIM-05 failed for client Diana Ardila: Discount percentage must be between 0% and 50%.
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-05.
+2026-11-17 17:22:56 | ERROR | Lookup failed for service code 'SRV-99'
+2026-11-17 17:22:56 | ERROR | Simulation/Booking FAILED [SIM-07]: Service code 'SRV-99' does not exist.
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-07.
+2026-11-17 17:22:56 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 17:22:56 | INFO | Simulation/Booking SUCCESS [SIM-08]: Client='Maria Rodriguez', Service='SRV-01', Total=$159.31 USD
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-08.
+2026-11-17 17:22:56 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 17:22:56 | INFO | Simulation/Booking SUCCESS [SIM-09]: Client='Jhon Bernal', Service='SRV-02', Total=$56.00 USD
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-09.
+2026-11-17 17:22:56 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 17:22:56 | ERROR | Simulation/Booking FAILED [SIM-10]: Booking SIM-10 failed for client Elena Castro: Duration must be greater than 0 hours.
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-10.
+2026-11-17 17:22:56 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 17:22:56 | INFO | Simulation/Booking SUCCESS [SIM-11]: Client='Pedro Vargas', Service='SRV-02', Total=$156.19 USD
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-11.
+2026-11-17 17:22:56 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 17:22:56 | ERROR | Simulation/Booking FAILED [SIM-12]: Booking SIM-12 failed for client Camila Diaz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 17:22:56 | INFO | Audit checkpoint completed for transaction SIM-12.
+2026-11-17 17:22:56 | INFO | === FINISHED 12 BATCH SIMULATIONS ===
+2026-11-17 18:08:40 | INFO | Catalog updated: added SRV-01
+2026-11-17 18:08:40 | INFO | Catalog updated: added SRV-02
+2026-11-17 18:08:40 | INFO | Catalog updated: added SRV-03
+2026-11-17 18:09:07 | INFO | === STARTING 12 BATCH SIMULATIONS ===
+2026-11-17 18:09:07 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:07 | INFO | Simulation/Booking SUCCESS [SIM-01]: Client='Carlos Mendez', Service='SRV-01', Total=$96.39 USD
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-01.
+2026-11-17 18:09:07 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:07 | INFO | Simulation/Booking SUCCESS [SIM-02]: Client='Laura Gomez', Service='SRV-02', Total=$62.47 USD
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-02.
+2026-11-17 18:09:07 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:09:07 | ERROR | Simulation/Booking FAILED [SIM-03]: Booking SIM-03 failed for client Andres Ruiz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-03.
+2026-11-17 18:09:07 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:07 | ERROR | Simulation/Booking FAILED [SIM-04]: Booking SIM-04 failed for client Sofia Torres: Duration must be greater than 0 hours.
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-04.
+2026-11-17 18:09:07 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:07 | ERROR | Simulation/Booking FAILED [SIM-05]: Booking SIM-05 failed for client Diana Ardila: Discount percentage must be between 0% and 50%.
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-05.
+2026-11-17 18:09:07 | ERROR | Lookup failed for service code 'SRV-99'
+2026-11-17 18:09:07 | ERROR | Simulation/Booking FAILED [SIM-07]: Service code 'SRV-99' does not exist.
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-07.
+2026-11-17 18:09:07 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:07 | INFO | Simulation/Booking SUCCESS [SIM-08]: Client='Maria Rodriguez', Service='SRV-01', Total=$159.31 USD
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-08.
+2026-11-17 18:09:07 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:07 | INFO | Simulation/Booking SUCCESS [SIM-09]: Client='Jhon Bernal', Service='SRV-02', Total=$56.00 USD
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-09.
+2026-11-17 18:09:07 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:07 | ERROR | Simulation/Booking FAILED [SIM-10]: Booking SIM-10 failed for client Elena Castro: Duration must be greater than 0 hours.
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-10.
+2026-11-17 18:09:07 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:07 | INFO | Simulation/Booking SUCCESS [SIM-11]: Client='Pedro Vargas', Service='SRV-02', Total=$156.19 USD
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-11.
+2026-11-17 18:09:07 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:09:07 | ERROR | Simulation/Booking FAILED [SIM-12]: Booking SIM-12 failed for client Camila Diaz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:09:07 | INFO | Audit checkpoint completed for transaction SIM-12.
+2026-11-17 18:09:07 | INFO | === FINISHED 12 BATCH SIMULATIONS ===
+2026-11-17 18:09:45 | INFO | === STARTING 12 BATCH SIMULATIONS ===
+2026-11-17 18:09:45 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:45 | INFO | Simulation/Booking SUCCESS [SIM-01]: Client='Carlos Mendez', Service='SRV-01', Total=$96.39 USD
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-01.
+2026-11-17 18:09:45 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:45 | INFO | Simulation/Booking SUCCESS [SIM-02]: Client='Laura Gomez', Service='SRV-02', Total=$62.47 USD
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-02.
+2026-11-17 18:09:45 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:09:45 | ERROR | Simulation/Booking FAILED [SIM-03]: Booking SIM-03 failed for client Andres Ruiz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-03.
+2026-11-17 18:09:45 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:45 | ERROR | Simulation/Booking FAILED [SIM-04]: Booking SIM-04 failed for client Sofia Torres: Duration must be greater than 0 hours.
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-04.
+2026-11-17 18:09:45 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:45 | ERROR | Simulation/Booking FAILED [SIM-05]: Booking SIM-05 failed for client Diana Ardila: Discount percentage must be between 0% and 50%.
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-05.
+2026-11-17 18:09:45 | ERROR | Lookup failed for service code 'SRV-99'
+2026-11-17 18:09:45 | ERROR | Simulation/Booking FAILED [SIM-07]: Service code 'SRV-99' does not exist.
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-07.
+2026-11-17 18:09:45 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:45 | INFO | Simulation/Booking SUCCESS [SIM-08]: Client='Maria Rodriguez', Service='SRV-01', Total=$159.31 USD
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-08.
+2026-11-17 18:09:45 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:45 | INFO | Simulation/Booking SUCCESS [SIM-09]: Client='Jhon Bernal', Service='SRV-02', Total=$56.00 USD
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-09.
+2026-11-17 18:09:45 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:45 | ERROR | Simulation/Booking FAILED [SIM-10]: Booking SIM-10 failed for client Elena Castro: Duration must be greater than 0 hours.
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-10.
+2026-11-17 18:09:45 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:45 | INFO | Simulation/Booking SUCCESS [SIM-11]: Client='Pedro Vargas', Service='SRV-02', Total=$156.19 USD
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-11.
+2026-11-17 18:09:45 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:09:45 | ERROR | Simulation/Booking FAILED [SIM-12]: Booking SIM-12 failed for client Camila Diaz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:09:45 | INFO | Audit checkpoint completed for transaction SIM-12.
+2026-11-17 18:09:45 | INFO | === FINISHED 12 BATCH SIMULATIONS ===
+2026-11-17 18:09:50 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:50 | INFO | Simulation/Booking SUCCESS [RES-MANUAL]: Client='John Doe', Service='SRV-02', Total=$83.30 USD
+2026-11-17 18:09:50 | INFO | Audit checkpoint completed for transaction RES-MANUAL.
+2026-11-17 18:09:50 | INFO | GUI single booking action cycle completed.
+2026-11-17 18:09:51 | INFO | === STARTING 12 BATCH SIMULATIONS ===
+2026-11-17 18:09:51 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:51 | INFO | Simulation/Booking SUCCESS [SIM-01]: Client='Carlos Mendez', Service='SRV-01', Total=$96.39 USD
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-01.
+2026-11-17 18:09:51 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:51 | INFO | Simulation/Booking SUCCESS [SIM-02]: Client='Laura Gomez', Service='SRV-02', Total=$62.47 USD
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-02.
+2026-11-17 18:09:51 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:09:51 | ERROR | Simulation/Booking FAILED [SIM-03]: Booking SIM-03 failed for client Andres Ruiz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-03.
+2026-11-17 18:09:51 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:51 | ERROR | Simulation/Booking FAILED [SIM-04]: Booking SIM-04 failed for client Sofia Torres: Duration must be greater than 0 hours.
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-04.
+2026-11-17 18:09:51 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:51 | ERROR | Simulation/Booking FAILED [SIM-05]: Booking SIM-05 failed for client Diana Ardila: Discount percentage must be between 0% and 50%.
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-05.
+2026-11-17 18:09:51 | ERROR | Lookup failed for service code 'SRV-99'
+2026-11-17 18:09:51 | ERROR | Simulation/Booking FAILED [SIM-07]: Service code 'SRV-99' does not exist.
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-07.
+2026-11-17 18:09:51 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:51 | INFO | Simulation/Booking SUCCESS [SIM-08]: Client='Maria Rodriguez', Service='SRV-01', Total=$159.31 USD
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-08.
+2026-11-17 18:09:51 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:51 | INFO | Simulation/Booking SUCCESS [SIM-09]: Client='Jhon Bernal', Service='SRV-02', Total=$56.00 USD
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-09.
+2026-11-17 18:09:51 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:51 | ERROR | Simulation/Booking FAILED [SIM-10]: Booking SIM-10 failed for client Elena Castro: Duration must be greater than 0 hours.
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-10.
+2026-11-17 18:09:51 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:51 | INFO | Simulation/Booking SUCCESS [SIM-11]: Client='Pedro Vargas', Service='SRV-02', Total=$156.19 USD
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-11.
+2026-11-17 18:09:51 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:09:51 | ERROR | Simulation/Booking FAILED [SIM-12]: Booking SIM-12 failed for client Camila Diaz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:09:51 | INFO | Audit checkpoint completed for transaction SIM-12.
+2026-11-17 18:09:51 | INFO | === FINISHED 12 BATCH SIMULATIONS ===
+2026-11-17 18:09:59 | INFO | === STARTING 12 BATCH SIMULATIONS ===
+2026-11-17 18:09:59 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:59 | INFO | Simulation/Booking SUCCESS [SIM-01]: Client='Carlos Mendez', Service='SRV-01', Total=$96.39 USD
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-01.
+2026-11-17 18:09:59 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:59 | INFO | Simulation/Booking SUCCESS [SIM-02]: Client='Laura Gomez', Service='SRV-02', Total=$62.47 USD
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-02.
+2026-11-17 18:09:59 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:09:59 | ERROR | Simulation/Booking FAILED [SIM-03]: Booking SIM-03 failed for client Andres Ruiz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-03.
+2026-11-17 18:09:59 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:59 | ERROR | Simulation/Booking FAILED [SIM-04]: Booking SIM-04 failed for client Sofia Torres: Duration must be greater than 0 hours.
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-04.
+2026-11-17 18:09:59 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:59 | ERROR | Simulation/Booking FAILED [SIM-05]: Booking SIM-05 failed for client Diana Ardila: Discount percentage must be between 0% and 50%.
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-05.
+2026-11-17 18:09:59 | ERROR | Lookup failed for service code 'SRV-99'
+2026-11-17 18:09:59 | ERROR | Simulation/Booking FAILED [SIM-07]: Service code 'SRV-99' does not exist.
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-07.
+2026-11-17 18:09:59 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:59 | INFO | Simulation/Booking SUCCESS [SIM-08]: Client='Maria Rodriguez', Service='SRV-01', Total=$159.31 USD
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-08.
+2026-11-17 18:09:59 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:59 | INFO | Simulation/Booking SUCCESS [SIM-09]: Client='Jhon Bernal', Service='SRV-02', Total=$56.00 USD
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-09.
+2026-11-17 18:09:59 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:09:59 | ERROR | Simulation/Booking FAILED [SIM-10]: Booking SIM-10 failed for client Elena Castro: Duration must be greater than 0 hours.
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-10.
+2026-11-17 18:09:59 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:09:59 | INFO | Simulation/Booking SUCCESS [SIM-11]: Client='Pedro Vargas', Service='SRV-02', Total=$156.19 USD
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-11.
+2026-11-17 18:09:59 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:09:59 | ERROR | Simulation/Booking FAILED [SIM-12]: Booking SIM-12 failed for client Camila Diaz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:09:59 | INFO | Audit checkpoint completed for transaction SIM-12.
+2026-11-17 18:09:59 | INFO | === FINISHED 12 BATCH SIMULATIONS ===
+2026-11-17 18:10:04 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:04 | INFO | Simulation/Booking SUCCESS [RES-MANUAL]: Client='John Doe', Service='SRV-02', Total=$58.31 USD
+2026-11-17 18:10:04 | INFO | Audit checkpoint completed for transaction RES-MANUAL.
+2026-11-17 18:10:04 | INFO | GUI single booking action cycle completed.
+2026-11-17 18:10:06 | INFO | === STARTING 12 BATCH SIMULATIONS ===
+2026-11-17 18:10:06 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:06 | INFO | Simulation/Booking SUCCESS [SIM-01]: Client='Carlos Mendez', Service='SRV-01', Total=$96.39 USD
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-01.
+2026-11-17 18:10:06 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:06 | INFO | Simulation/Booking SUCCESS [SIM-02]: Client='Laura Gomez', Service='SRV-02', Total=$62.47 USD
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-02.
+2026-11-17 18:10:06 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:10:06 | ERROR | Simulation/Booking FAILED [SIM-03]: Booking SIM-03 failed for client Andres Ruiz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-03.
+2026-11-17 18:10:06 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:06 | ERROR | Simulation/Booking FAILED [SIM-04]: Booking SIM-04 failed for client Sofia Torres: Duration must be greater than 0 hours.
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-04.
+2026-11-17 18:10:06 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:06 | ERROR | Simulation/Booking FAILED [SIM-05]: Booking SIM-05 failed for client Diana Ardila: Discount percentage must be between 0% and 50%.
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-05.
+2026-11-17 18:10:06 | ERROR | Lookup failed for service code 'SRV-99'
+2026-11-17 18:10:06 | ERROR | Simulation/Booking FAILED [SIM-07]: Service code 'SRV-99' does not exist.
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-07.
+2026-11-17 18:10:06 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:06 | INFO | Simulation/Booking SUCCESS [SIM-08]: Client='Maria Rodriguez', Service='SRV-01', Total=$159.31 USD
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-08.
+2026-11-17 18:10:06 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:06 | INFO | Simulation/Booking SUCCESS [SIM-09]: Client='Jhon Bernal', Service='SRV-02', Total=$56.00 USD
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-09.
+2026-11-17 18:10:06 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:06 | ERROR | Simulation/Booking FAILED [SIM-10]: Booking SIM-10 failed for client Elena Castro: Duration must be greater than 0 hours.
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-10.
+2026-11-17 18:10:06 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:06 | INFO | Simulation/Booking SUCCESS [SIM-11]: Client='Pedro Vargas', Service='SRV-02', Total=$156.19 USD
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-11.
+2026-11-17 18:10:06 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:10:06 | ERROR | Simulation/Booking FAILED [SIM-12]: Booking SIM-12 failed for client Camila Diaz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:10:06 | INFO | Audit checkpoint completed for transaction SIM-12.
+2026-11-17 18:10:06 | INFO | === FINISHED 12 BATCH SIMULATIONS ===
+2026-11-17 18:10:11 | INFO | === STARTING 12 BATCH SIMULATIONS ===
+2026-11-17 18:10:11 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:11 | INFO | Simulation/Booking SUCCESS [SIM-01]: Client='Carlos Mendez', Service='SRV-01', Total=$96.39 USD
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-01.
+2026-11-17 18:10:11 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:11 | INFO | Simulation/Booking SUCCESS [SIM-02]: Client='Laura Gomez', Service='SRV-02', Total=$62.47 USD
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-02.
+2026-11-17 18:10:11 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:10:11 | ERROR | Simulation/Booking FAILED [SIM-03]: Booking SIM-03 failed for client Andres Ruiz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-03.
+2026-11-17 18:10:11 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:11 | ERROR | Simulation/Booking FAILED [SIM-04]: Booking SIM-04 failed for client Sofia Torres: Duration must be greater than 0 hours.
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-04.
+2026-11-17 18:10:11 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:11 | ERROR | Simulation/Booking FAILED [SIM-05]: Booking SIM-05 failed for client Diana Ardila: Discount percentage must be between 0% and 50%.
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-05.
+2026-11-17 18:10:11 | ERROR | Lookup failed for service code 'SRV-99'
+2026-11-17 18:10:11 | ERROR | Simulation/Booking FAILED [SIM-07]: Service code 'SRV-99' does not exist.
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-07.
+2026-11-17 18:10:11 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:11 | INFO | Simulation/Booking SUCCESS [SIM-08]: Client='Maria Rodriguez', Service='SRV-01', Total=$159.31 USD
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-08.
+2026-11-17 18:10:11 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:11 | INFO | Simulation/Booking SUCCESS [SIM-09]: Client='Jhon Bernal', Service='SRV-02', Total=$56.00 USD
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-09.
+2026-11-17 18:10:11 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:11 | ERROR | Simulation/Booking FAILED [SIM-10]: Booking SIM-10 failed for client Elena Castro: Duration must be greater than 0 hours.
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-10.
+2026-11-17 18:10:11 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:11 | INFO | Simulation/Booking SUCCESS [SIM-11]: Client='Pedro Vargas', Service='SRV-02', Total=$156.19 USD
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-11.
+2026-11-17 18:10:11 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:10:11 | ERROR | Simulation/Booking FAILED [SIM-12]: Booking SIM-12 failed for client Camila Diaz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:10:11 | INFO | Audit checkpoint completed for transaction SIM-12.
+2026-11-17 18:10:11 | INFO | === FINISHED 12 BATCH SIMULATIONS ===
+2026-11-17 18:10:14 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:14 | INFO | Simulation/Booking SUCCESS [RES-MANUAL]: Client='John Doe', Service='SRV-02', Total=$49.00 USD
+2026-11-17 18:10:14 | INFO | Audit checkpoint completed for transaction RES-MANUAL.
+2026-11-17 18:10:14 | INFO | GUI single booking action cycle completed.
+2026-11-17 18:10:15 | INFO | === STARTING 12 BATCH SIMULATIONS ===
+2026-11-17 18:10:15 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:15 | INFO | Simulation/Booking SUCCESS [SIM-01]: Client='Carlos Mendez', Service='SRV-01', Total=$96.39 USD
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-01.
+2026-11-17 18:10:15 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:15 | INFO | Simulation/Booking SUCCESS [SIM-02]: Client='Laura Gomez', Service='SRV-02', Total=$62.47 USD
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-02.
+2026-11-17 18:10:15 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:10:15 | ERROR | Simulation/Booking FAILED [SIM-03]: Booking SIM-03 failed for client Andres Ruiz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-03.
+2026-11-17 18:10:15 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:15 | ERROR | Simulation/Booking FAILED [SIM-04]: Booking SIM-04 failed for client Sofia Torres: Duration must be greater than 0 hours.
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-04.
+2026-11-17 18:10:15 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:15 | ERROR | Simulation/Booking FAILED [SIM-05]: Booking SIM-05 failed for client Diana Ardila: Discount percentage must be between 0% and 50%.
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-05.
+2026-11-17 18:10:15 | ERROR | Lookup failed for service code 'SRV-99'
+2026-11-17 18:10:15 | ERROR | Simulation/Booking FAILED [SIM-07]: Service code 'SRV-99' does not exist.
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-07.
+2026-11-17 18:10:15 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:15 | INFO | Simulation/Booking SUCCESS [SIM-08]: Client='Maria Rodriguez', Service='SRV-01', Total=$159.31 USD
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-08.
+2026-11-17 18:10:15 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:15 | INFO | Simulation/Booking SUCCESS [SIM-09]: Client='Jhon Bernal', Service='SRV-02', Total=$56.00 USD
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-09.
+2026-11-17 18:10:15 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:10:15 | ERROR | Simulation/Booking FAILED [SIM-10]: Booking SIM-10 failed for client Elena Castro: Duration must be greater than 0 hours.
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-10.
+2026-11-17 18:10:15 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:10:15 | INFO | Simulation/Booking SUCCESS [SIM-11]: Client='Pedro Vargas', Service='SRV-02', Total=$156.19 USD
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-11.
+2026-11-17 18:10:15 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:10:15 | ERROR | Simulation/Booking FAILED [SIM-12]: Booking SIM-12 failed for client Camila Diaz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:10:15 | INFO | Audit checkpoint completed for transaction SIM-12.
+2026-11-17 18:10:15 | INFO | === FINISHED 12 BATCH SIMULATIONS ===
+2026-11-17 18:14:42 | INFO | === STARTING 12 BATCH SIMULATIONS ===
+2026-11-17 18:14:42 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:14:42 | INFO | Simulation/Booking SUCCESS [SIM-01]: Client='Carlos Mendez', Service='SRV-01', Total=$96.39 USD
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-01.
+2026-11-17 18:14:42 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:14:42 | INFO | Simulation/Booking SUCCESS [SIM-02]: Client='Laura Gomez', Service='SRV-02', Total=$62.47 USD
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-02.
+2026-11-17 18:14:42 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:14:42 | ERROR | Simulation/Booking FAILED [SIM-03]: Booking SIM-03 failed for client Andres Ruiz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-03.
+2026-11-17 18:14:42 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:14:42 | ERROR | Simulation/Booking FAILED [SIM-04]: Booking SIM-04 failed for client Sofia Torres: Duration must be greater than 0 hours.
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-04.
+2026-11-17 18:14:42 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:14:42 | ERROR | Simulation/Booking FAILED [SIM-05]: Booking SIM-05 failed for client Diana Ardila: Discount percentage must be between 0% and 50%.
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-05.
+2026-11-17 18:14:42 | ERROR | Lookup failed for service code 'SRV-99'
+2026-11-17 18:14:42 | ERROR | Simulation/Booking FAILED [SIM-07]: Service code 'SRV-99' does not exist.
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-07.
+2026-11-17 18:14:42 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:14:42 | INFO | Simulation/Booking SUCCESS [SIM-08]: Client='Maria Rodriguez', Service='SRV-01', Total=$159.31 USD
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-08.
+2026-11-17 18:14:42 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:14:42 | INFO | Simulation/Booking SUCCESS [SIM-09]: Client='Jhon Bernal', Service='SRV-02', Total=$56.00 USD
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-09.
+2026-11-17 18:14:42 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:14:42 | ERROR | Simulation/Booking FAILED [SIM-10]: Booking SIM-10 failed for client Elena Castro: Duration must be greater than 0 hours.
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-10.
+2026-11-17 18:14:42 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:14:42 | INFO | Simulation/Booking SUCCESS [SIM-11]: Client='Pedro Vargas', Service='SRV-02', Total=$156.19 USD
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-11.
+2026-11-17 18:14:42 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:14:42 | ERROR | Simulation/Booking FAILED [SIM-12]: Booking SIM-12 failed for client Camila Diaz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:14:42 | INFO | Audit checkpoint completed for transaction SIM-12.
+2026-11-17 18:14:42 | INFO | === FINISHED 12 BATCH SIMULATIONS ===
+2026-11-17 18:14:47 | INFO | === STARTING 12 BATCH SIMULATIONS ===
+2026-11-17 18:14:47 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:14:47 | INFO | Simulation/Booking SUCCESS [SIM-01]: Client='Carlos Mendez', Service='SRV-01', Total=$96.39 USD
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-01.
+2026-11-17 18:14:47 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:14:47 | INFO | Simulation/Booking SUCCESS [SIM-02]: Client='Laura Gomez', Service='SRV-02', Total=$62.47 USD
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-02.
+2026-11-17 18:14:47 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:14:47 | ERROR | Simulation/Booking FAILED [SIM-03]: Booking SIM-03 failed for client Andres Ruiz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-03.
+2026-11-17 18:14:47 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:14:47 | ERROR | Simulation/Booking FAILED [SIM-04]: Booking SIM-04 failed for client Sofia Torres: Duration must be greater than 0 hours.
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-04.
+2026-11-17 18:14:47 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:14:47 | ERROR | Simulation/Booking FAILED [SIM-05]: Booking SIM-05 failed for client Diana Ardila: Discount percentage must be between 0% and 50%.
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-05.
+2026-11-17 18:14:47 | ERROR | Lookup failed for service code 'SRV-99'
+2026-11-17 18:14:47 | ERROR | Simulation/Booking FAILED [SIM-07]: Service code 'SRV-99' does not exist.
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-07.
+2026-11-17 18:14:47 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:14:47 | INFO | Simulation/Booking SUCCESS [SIM-08]: Client='Maria Rodriguez', Service='SRV-01', Total=$159.31 USD
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-08.
+2026-11-17 18:14:47 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:14:47 | INFO | Simulation/Booking SUCCESS [SIM-09]: Client='Jhon Bernal', Service='SRV-02', Total=$56.00 USD
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-09.
+2026-11-17 18:14:47 | INFO | Service 'SRV-01' retrieved successfully.
+2026-11-17 18:14:47 | ERROR | Simulation/Booking FAILED [SIM-10]: Booking SIM-10 failed for client Elena Castro: Duration must be greater than 0 hours.
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-10.
+2026-11-17 18:14:47 | INFO | Service 'SRV-02' retrieved successfully.
+2026-11-17 18:14:47 | INFO | Simulation/Booking SUCCESS [SIM-11]: Client='Pedro Vargas', Service='SRV-02', Total=$156.19 USD
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-11.
+2026-11-17 18:14:47 | INFO | Service 'SRV-03' retrieved successfully.
+2026-11-17 18:14:47 | ERROR | Simulation/Booking FAILED [SIM-12]: Booking SIM-12 failed for client Camila Diaz: Service 'Server Rack Diagnostics' (SRV-03) is currently unavailable.
+2026-11-17 18:14:47 | INFO | Audit checkpoint completed for transaction SIM-12.
+2026-11-17 18:14:47 | INFO | === FINISHED 12 BATCH SIMULATIONS ===
